@@ -1,8 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Classroom-IOSSD/classroom-iossd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is used to demonstrate GitHub Pages to students who take the course, _Introduction to Open Source Software Development_. Most of open source projects hosted in GitHub use this GitHub Pages as a project web page. Every student can make your own GitHub Pages like this. For more information see official [GitHub Pages](https://pages.github.com).
+
+If you see this page with edtior on GitHub, [click this](https://classroom-iossd.github.io) to see a web version.
+
+If you see this page on the web, you can [click this](https://github.com/Classroom-IOSSD/classroom-iossd.github.io/edit/master/index.md) to maintain and preview the content for this website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Therefore, you need to understand what Markdown is and how to write Markdown files. Here is brief descriptions about Markdown.
 
 ### Markdown
 
